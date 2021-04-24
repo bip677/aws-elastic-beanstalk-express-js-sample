@@ -10,7 +10,6 @@ console.log(`App is running on http://localhost:${port}`);
 
 console.log(`Currently App is running on http://localhost:${port}`);
 
-console.log(`The line is added in local repo`);
 
 
 console.log(`The line is added in Remote repo`);
